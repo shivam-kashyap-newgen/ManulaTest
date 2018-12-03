@@ -86,8 +86,8 @@ Your public key has been saved in /c/Users/username/.ssh/id\_rsa.pub.
 
  4) Enter your user name and password
 
- - **Username:** {{8054aade-7883-dd7e-7112-84348d9c581b.variable.fingerprint}}
- - **Password:** {{8054aade-7883-dd7e-7112-84348d9c581b.variable.private_key_path}}
+ - **Username:** {{8054aade-7883-dd7e-7112-84348d9c581b.output.usernames_list}}
+ - **Password:** {{8054aade-7883-dd7e-7112-84348d9c581b.output.ui_passwords_list}}
  
 <img width="800" alt="image001" src="https://raw.githubusercontent.com/oracle/learning-library/master/oci-library/Foundational/Identity_Access_Management/img/image003.png">
 
