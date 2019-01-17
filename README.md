@@ -6,6 +6,8 @@
 
 [Pre-Requisites](#pre-requisites)
 
+[Recommended Learning Assets](#recommended-learning-assets)
+
 [Practice 1: Generate SSH Keys](#practice-1-generate-ssh-keys)
 
 [Practice 2: Signing in OCI Console](#practice-2-signing-in-oci-console)
@@ -33,6 +35,15 @@ The lab exercises are designed to complement your training, reinforcing the key 
 - Region and compartment with limits for a few small instances (1.1 or 2.1 is sufficient)
 - A VCN created with at least one subnet, internet gateway, default route to internet gateway and security groups allowing at least port 22/SSH in.
 - Ability to SSH into compute instances
+
+
+## Recommended Learning Assets
+
+- Oracle Cloud Infrastructure account credentials (User, Password, and Tenant)
+- Region and compartment with limits for a few small instances (1.1 or 2.1 is sufficient)
+- A VCN created with at least one subnet, internet gateway, default route to internet gateway and security groups allowing at least port 22/SSH in.
+- Ability to SSH into compute instances
+
 
 ## Practice 1: Generate SSH Keys
 
